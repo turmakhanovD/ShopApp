@@ -1,0 +1,16 @@
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.exe.config
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.exe
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.pdb
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\bin\Debug\EntityFramework.dll
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\bin\Debug\EntityFramework.xml
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.csprojAssemblyReference.cache
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CopyComplete
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.pdb
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.Migrations.Initial.resources
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\Адиль\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.Migrations.Changed.resources
